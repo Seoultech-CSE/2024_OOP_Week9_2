@@ -7,7 +7,7 @@ public MyString1 substring(int begin, int end);
 public MyString1 toLowerCase();    
 public String toString();   
 
-* 참고 1 : 내부 변수로 char chars[] 를 갖고 있습니다.
+* 참고 1 : 내부 변수로 char chars[], 그리고 미리 완성된 생성자 메소드를 갖고 있습니다.
 * 참고 2 : 다른 문자열을 반환하는 함수의 경우, 기존 객체가 갖는 String 값을 훼손하지 않고 반환만 합니다.
 
 ```
