@@ -1,5 +1,5 @@
 # 2024_OOP_Week9_2 : MyString1
-String 클래스는 자바 라이브러리에서 기본제공 됩니다. 다음의 메소드를 구현하여 String 클래스의 역할을 모방하는 MyString1 클래스를 완성하시오:   
+String 클래스는 자바 라이브러리에서 기본제공 되는 클래스입니다. 해당 클래스의 역할을 모방하기 위해 다음의 메소드를 구현하여 MyString1 클래스를 완성하시오 :   
 
 public char charAt(int index);   
 public int length();   
